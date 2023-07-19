@@ -45,16 +45,16 @@
   
 
 ## 🙌🏻 Github Stats
-<img align="right" width="30%" src="https://i.imgur.com/VxANS89.jpg"/>
+
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushikime&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 
-<br/>
 <br/>
 
 ## 🔥 Most used stack
 [![My Skills](https://skills.thijs.gg/icons?i=react,ts,js,html,css,nextjs,nestjs,webpack,vite)](https://skills.thijs.gg)
 
+<br/>
 
   
 ## ⚙ My working configuration
