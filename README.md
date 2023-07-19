@@ -15,8 +15,6 @@
 
 <p align="center">
   I like interviews and I like them even more when I fail them!
-<br/>
-  Feel free to interview me in case you want to practice :3
 </p>
 
 <p align="center">
