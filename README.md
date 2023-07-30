@@ -33,7 +33,7 @@
 
 - 🍥🍜🦊 I love ANIME, this is probably the most important you need to know.
 
-- 👨🏻‍💻 I’m currently learning **JS, TS, Rust/Python**.
+- 👨🏻‍💻 I’m currently learning **JS, TS, Python, Java**.
 
 - 📫 Reach me out at **demcsakerik@gmail.com**
 
