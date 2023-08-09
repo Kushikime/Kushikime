@@ -44,7 +44,7 @@
 
 ## 🙌🏻 Github Stats
 
-  <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushikime&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <a><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushikime&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 
 <br/>
