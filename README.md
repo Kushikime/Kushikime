@@ -54,13 +54,3 @@
 
 <br/>
 
-  
-## ⚙ My working configuration
-
-| ⚙ | Description |
-|-----:|-----------|
-|     CPU| AMD Ryzen 9 5900X|
-|     GPU| Radeon RX 6600 8GB|
-|     RAM| 32GB 3600MHz overclocked (playing with 🔥)|
-|     OS| Windows 11, rarely Ubuntu 22.04|
-|     Editor| VSCode with a bunch of extensions (most used Prettier, EsLint, I18-ally)|
