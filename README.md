@@ -6,20 +6,18 @@
  <br/>
 
 <p align="center">
-  Hi there, I am a passionate front-end developer.
+Hello! I'm an enthusiastic front-end developer with a keen interest in continuously acquiring new knowledge.
+</p>
+<p align="center">
+I enjoy participating in interviews, and I find them even more rewarding when they present a challenge!
+</p>
+<p align="center">
+Typically, I work remotely from the comfort of my home.
   <br/>
-  I love to learn new things.
 </p>
 
  <br/>
 
-<p align="center">
-  I like interviews and I like them even more when I fail them!
-</p>
-
-<p align="center">
-  Most of the time I'm working from home.
-</p>
 
 <br/>
 
@@ -33,7 +31,7 @@
 
 - 🍥🍜🦊 I love ANIME, this is probably the most important you need to know.
 
-- 👨🏻‍💻 I’m currently learning **JS, TS, Python, Java**.
+- 👨🏻‍💻 I’m currently working with **JS, TS, Python**.
 
 - 📫 Reach me out at **demcsakerik@gmail.com**
 
