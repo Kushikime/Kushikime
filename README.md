@@ -1,10 +1,3 @@
-<a href="https://discord.gg/pochita"><img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="100%" height="auto"/></a>
-<p align="center">
-  Sometimes this happens when I can't resolve an issue.
-</p>
-
- <br/>
-
 <p align="center">
 Hello! I'm an enthusiastic front-end developer with a keen interest in continuously acquiring new knowledge.
 </p>
@@ -15,8 +8,31 @@ I enjoy participating in interviews, and I find them even more rewarding when th
 Typically, I work remotely from the comfort of my home.
   <br/>
 </p>
+<br />
+<p align="center">
+Languages: JavaScript, TypeScript, Python
+</p>
+<br />
+<p align="center">
+  Front-End: React.js, React Native, Next.js, Redux-Toolkit, Zustand, GraphQL, Material UI, Tailwind, Styled Components
+</p>
+<br />
+<p align="center">
+  Back-End: Nest.js, GraphQL, Prisma, TypeORM
+</p>
+<br />
+<p align="center">
+  Continuously enhancing skills in Front end and Full-Stack technologies.
+</p>
+
 
  <br/>
+
+
+
+ <br/>
+
+<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="100%" height="auto"/>
 
 
 <br/>
@@ -48,7 +64,7 @@ Typically, I work remotely from the comfort of my home.
 <br/>
 
 ## 🔥 Most used stack
-[![My Skills](https://skills.thijs.gg/icons?i=react,ts,js,html,css,nextjs,nestjs,webpack,vite)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nextjs,nestjs,webpack,vite)](https://skills.thijs.gg)
 
 <br/>
 
