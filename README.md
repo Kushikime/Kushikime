@@ -7,6 +7,8 @@ I enjoy participating in interviews, and I find them even more rewarding when th
 <p align="center">
 Typically, I work remotely from the comfort of my home.
   <br/>
+</p><p align="center">
+  Continuously enhancing skills in Front end and Full-Stack technologies.
 </p>
 <br />
 <p align="center">
@@ -21,16 +23,8 @@ Languages: JavaScript, TypeScript, Python
   Back-End: Nest.js, GraphQL, Prisma, TypeORM
 </p>
 <br />
-<p align="center">
-  Continuously enhancing skills in Front end and Full-Stack technologies.
-</p>
 
 
- <br/>
-
-
-
- <br/>
 
 <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="100%" height="auto"/>
 
