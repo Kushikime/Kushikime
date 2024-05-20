@@ -16,11 +16,14 @@ Languages: JavaScript, TypeScript, Python
 </p>
 <br />
 <p align="center">
-  Front-End: React.js, React Native, Next.js, Redux-Toolkit, Zustand, GraphQL, Material UI, Tailwind, Styled Components
+  Front-End: React.js, Next.js, React Native, Redux-Toolkit, Zustand, GraphQL, Material UI, Tailwind, Styled Components, SCSS/LESS
 </p>
 <br />
 <p align="center">
-  Back-End: Nest.js, GraphQL, Prisma, TypeORM
+  Back-End: Express.js, Nest.js, REST, GraphQL, Prisma, TypeORM, Sequelize
+</p>
+<p align="center">
+  Redis, MongoDB, PostgreSQL, MySQL
 </p>
 <br />
 
