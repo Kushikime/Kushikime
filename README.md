@@ -20,7 +20,7 @@ Languages: JavaScript, TypeScript, Python
 </p>
 <br />
 <p align="center">
-  Back-End: Express.js, Nest.js, REST, GraphQL, Prisma, TypeORM, Sequelize
+  Back-End: Express.js, Fastify, Nest.js, REST, Swagger/Openapi, Ajv, GraphQL, Prisma, TypeORM, Sequelize, SQLite
 </p>
 <p align="center">
   Redis, MongoDB, PostgreSQL, MySQL
