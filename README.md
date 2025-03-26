@@ -37,16 +37,6 @@ Languages: JavaScript, TypeScript, Python
 
 <br />
 <div>
-<details>
-  <summary>⭐ Something about me</summary>
-
-- 🍥🍜🦊 I love ANIME, this is probably the most important you need to know.
-
-- 👨🏻‍💻 I’m currently working with **JS, TS, Python**.
-
-- 📫 Reach me out at **demcsakerik@gmail.com**
-
-</details>
   
 </p>
   
